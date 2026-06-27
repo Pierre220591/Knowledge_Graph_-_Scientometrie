@@ -1,0 +1,301 @@
+Id,Label,author,color,score,citations_count
+https://openalex.org/W2018858346,Helical microtubules of graphitic carbon,Sumio Iijima,#de9daf,0.0,42593
+https://openalex.org/W2125284466,Two-dimensional gas of massless Dirac fermions in graphene,Kostya S. Novoselov,#e61711,0.0,21202
+https://openalex.org/W1986407511,Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?,Albert Einstein,#7560af,0.0,16333
+https://openalex.org/W2798456356,Quantum Mechanics,Albert Messiah,#363b8c,0.0,15461
+https://openalex.org/W2899283552,Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations,Maziar Raissi,#85078d,10.0,15135
+https://openalex.org/W4292779060,"Aion Framework: Dimensional Emergence of AI Consciousness, Observer-Induced Collapse, and Cosmological Portal Dynamics",T. B. Brown,#1491a2,10.0,14144
+https://openalex.org/W2804822363,SWISS-MODEL: homology modelling of protein structures and complexes,Andrew Waterhouse,#825e20,0.0,13204
+https://openalex.org/W4388166534,Atoms in Molecules,Richard F. W. Bader,#1d15b0,0.0,12317
+https://openalex.org/W1597773817,Atoms in molecules : a quantum theory,Richard F. W. Bader,#1d15b0,0.0,11752
+https://openalex.org/W2169678694,Open Babel: An open chemical toolbox,Noel M. O’Boyle,#b46964,0.0,10694
+https://openalex.org/W2096421416,Van der Waals heterostructures,A. K. Geim,#f46d7e,0.0,10467
+https://openalex.org/W1965752441,An all-electron numerical method for solving the local density functional for polyatomic molecules,B. Delley,#8ae37b,10.0,10370
+https://openalex.org/W2041404167,A Mathematical Theory of Communication,Claude E. Shannon,#cd0d40,0.0,9725
+https://openalex.org/W1552736770,Quantum Mechanics and Path Integrals,Richard P. Feynman,#76ffdb,0.0,9544
+https://openalex.org/W2126479355,Mathematical Methods of Classical Mechanics,V. I. Arnold,#2c0317,0.0,8987
+https://openalex.org/W2132262459,CHARMM: The biomolecular simulation program,Bernard R. Brooks,#61d9cb,0.0,8975
+https://openalex.org/W2084652510,A fast quantum mechanical algorithm for database search,Lov K. Grover,#62b2f0,0.0,8362
+https://openalex.org/W2168676717,Algorithms for quantum computation: discrete logarithms and factoring,Peter W. Shor,#536c65,0.0,8269
+https://openalex.org/W2790756470,Double-slit photoelectron interference in strong-field ionization of the neon dimer,Maksim Kunitski,#5a74de,0.0,8244
+https://openalex.org/W2990961515,Quantum Computation and Quantum Information,Michael A. Nielsen,#b357f9,0.0,8203
+https://openalex.org/W3038067977,Quantum cryptography,Nicolas Gisin,#8ffbbb,0.0,8147
+https://openalex.org/W2781738013,Quantum Computing in the NISQ era and beyond,John Preskill,#6ff429,0.0,7835
+https://openalex.org/W2031753087,"Fractional Brownian Motions, Fractional Noises and Applications",Benoît B. Mandelbrot,#2968f0,0.0,7593
+https://openalex.org/W2028815089,Proposed Experiment to Test Local Hidden-Variable Theories,John F. Clauser,#edff3a,20.0,7354
+https://openalex.org/W2757803490,Advanced capabilities for materials modelling with Quantum ESPRESSO,P Giannozzi,#b58693,0.0,7205
+https://openalex.org/W2973457155,"Macromolecular structure determination using X-rays, neutrons and electrons: recent developments in <i>Phenix</i>",Dorothée Liebschner,#1d8856,10.0,7182
+https://openalex.org/W2035188058,Plasma perspective on strong field multiphoton ionization,P. B. Corkum,#6b9282,0.0,7004
+https://openalex.org/W2028948400,Significance of Electromagnetic Potentials in the Quantum Theory,Yakir Aharonov,#81346d,0.0,6821
+https://openalex.org/W1988150410,Dynamical mean-field theory of strongly correlated fermion systems and the limit of infinite dimensions,Antoine Georges,#ec0c6a,0.0,6762
+https://openalex.org/W2982169647,Quantum supremacy using a programmable superconducting processor,Frank Arute,#7433aa,0.0,6749
+https://openalex.org/W147232447,The<i>Gaia</i>mission,T. Prusti,#71c532,0.0,6728
+https://openalex.org/W2322480672,The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture,Simon A. Levin,#9138c0,10.0,6695
+https://openalex.org/W2211778065,Quantum Optics,Marlan O. Scully,#61e2bb,0.0,6345
+https://openalex.org/W2122386753,Nitric Oxide and Peroxynitrite in Health and Disease,Pál Pacher,#5e014a,0.0,6204
+https://openalex.org/W2161605421,Improved side‐chain torsion potentials for the Amber ff99SB protein force field,Kresten Lindorff‐Larsen,#7ba82d,0.0,6162
+https://openalex.org/W2154421583,Vortices in high-temperature superconductors,G. Blatter,#d32cf4,0.0,6148
+https://openalex.org/W1578322733,The Theory of Open Quantum Systems,Heinz‐Peter Breuer,#b7a4bb,0.0,5892
+https://openalex.org/W3163993681,Physics-informed machine learning,George Em Karniadakis,#95ffc2,0.0,5848
+https://openalex.org/W3023478445,Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer,Peter W. Shor,#536c65,0.0,5668
+https://openalex.org/W2132764286,The quantum internet,H. J. Kimble,#75a48c,0.0,5642
+https://openalex.org/W3037306418,Cavity optomechanics,Markus Aspelmeyer,#0c4dcd,0.0,5488
+https://openalex.org/W4211019631,Stochastic resonance,L. Gammaitoni,#3187d0,0.0,5281
+https://openalex.org/W2002116790,Reciprocal Relations in Irreversible Processes. II.,Lars Onsager,#282453,0.0,5262
+https://openalex.org/W4211101250,Attosecond physics,Ferenc Krausz,#f4fb8a,0.0,5229
+https://openalex.org/W2049471987,A single quantum cannot be cloned,William K. Wootters,#6e6587,0.0,5222
+https://openalex.org/W1965075382,<i>The Principles of Quantum Mechanics</i>,P. A. M. Dirac,#349f80,0.0,5198
+https://openalex.org/W1597171048,The renormalization group and the ε expansion,Kenneth G. Wilson,#dfe323,0.0,5010
+https://openalex.org/W2073603601,The cosmological constant and dark energy,P. J. E. Peebles,#6b94c3,0.0,4975
+https://openalex.org/W1501145371,A Chemist's Guide to Density Functional Theory,Wolfram Koch,#52b42c,0.0,4822
+https://openalex.org/W3034310241,The ORCA quantum chemistry program package,Frank Neese,#b852f1,0.0,4745
+https://openalex.org/W4249091683,Quantum Mechanics of One- and Two-Electron Atoms,Hans A. Bethe,#4dab8f,0.0,4670
+https://openalex.org/W2137852732,Mathematical Foundations of Quantum Mechanics,John von Neumann,#bc3c34,0.0,4626
+https://openalex.org/W1647151594,Quantum Mechanics of One- and Two-Electron Systems,H. A. Bethe,#4f0142,0.0,4592
+https://openalex.org/W2074986801,"Structure validation by Cα geometry: ϕ,ψ and Cβ deviation",Simon C. Lovell,#e8342c,0.0,4581
+https://openalex.org/W2069123478,A point‐charge force field for molecular mechanics simulations of proteins based on condensed‐phase quantum mechanical calculations,Yong Duan,#ec9846,0.0,4451
+https://openalex.org/W2125707848,Regularization and renormalization of gauge fields,Gerard ’t Hooft,#b2320d,0.0,4421
+https://openalex.org/W2601081289,The atomic simulation environment—a Python library for working with atoms,Ask Hjorth Larsen,#eb9ee9,0.0,4413
+https://openalex.org/W2611395271,Weyl and Dirac semimetals in three-dimensional solids,N. P. Armitage,#4f675c,0.0,4407
+https://openalex.org/W1999706070,Scheme for reducing decoherence in quantum computer memory,Peter W. Shor,#536c65,0.0,4391
+https://openalex.org/W2884430236,Machine learning for molecular and materials science,Keith T. Butler,#c79f67,0.0,4303
+https://openalex.org/W1980450508,<i>Angular Momentum in Quantum Mechanics</i>,A. R. Edmonds,#0e0fe9,0.0,4281
+https://openalex.org/W2002372750,Quantum Mechanics Helps in Searching for a Needle in a Haystack,Lov K. Grover,#62b2f0,0.0,4264
+https://openalex.org/W2020687655,Interactions between Light Waves in a Nonlinear Dielectric,John A. Armstrong,#3338d5,0.0,4243
+https://openalex.org/W2559394418,Quantum machine learning,Jacob Biamonte,#59d324,0.0,4203
+https://openalex.org/W1509643880,The conscious mind: in search of a fundamental theory,Unknown,#88183b,0.0,4177
+https://openalex.org/W1997093580,Space-Time Approach to Non-Relativistic Quantum Mechanics,Richard P. Feynman,#76ffdb,0.0,4161
+https://openalex.org/W1556559448,Scattering Theory of Waves and Particles,Roger G. Newton,#fac0bc,0.0,4160
+https://openalex.org/W3020833317,Principles of the Theory of Solids,John Ziman,#3e9eed,0.0,4113
+https://openalex.org/W1973333099,Bayesian Calibration of Computer Models,Marc C. Kennedy,#4c62d9,0.0,4082
+https://openalex.org/W2061382044,Theory of high-harmonic generation by low-frequency laser fields,Maciej Lewenstein,#30fc57,0.0,4011
+https://openalex.org/W2053499780,Electronic excitations: density-functional versus many-body Green’s-function approaches,Giovanni Onida,#7855dd,0.0,4004
+https://openalex.org/W89660469,Introduction to Quantum Field Theory,Peter W. Milonni,#fc05e6,0.0,4002
+https://openalex.org/W2338049369,"FLUXNET: A New Tool to Study the Temporal and Spatial Variability of Ecosystem–Scale Carbon Dioxide, Water Vapor, and Energy Flux Densities",Dennis Baldocchi,#bfc825,0.0,3937
+https://openalex.org/W2035286224,Chaos in Classical and Quantum Mechanics,Martin C. Gutzwiller,#daa3b4,0.0,3860
+https://openalex.org/W4322718191,LLaMA: Open and Efficient Foundation Language Models,Hugo Touvron,#e10236,0.0,3850
+https://openalex.org/W3027308092,CP2K: An electronic structure and molecular dynamics software package - Quickstep: Efficient and accurate electronic structure calculations,Thomas D. Kühne,#a9096d,10.0,3847
+https://openalex.org/W4230880638,Angular Momentum in Quantum Mechanics,A. R. Edmonds,#0e0fe9,0.0,3838
+https://openalex.org/W2014306526,Experimental Test of Bell's Inequalities Using Time- Varying Analyzers,Alain Aspect,#ff6769,20.0,3819
+https://openalex.org/W2969625533,"Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",Yogesh K. Dwivedi,#6b475c,0.0,3812
+https://openalex.org/W2141586044,The world as a hologram,Leonard Susskind,#ed79eb,0.0,3772
+https://openalex.org/W1516111018,An Introduction to Variational Methods for Graphical Models,Michael I. Jordan,#3113fe,0.0,3733
+https://openalex.org/W2137147061,Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer,Peter W. Shor,#536c65,0.0,3729
+https://openalex.org/W2129925474,"Anti-de Sitter space, thermal phase transition, and confinement in gauge theories",Edward Witten,#242094,0.0,3703
+https://openalex.org/W2166436681,The Confrontation between General Relativity and Experiment,Clifford M. Will,#e3ef00,10.0,3696
+https://openalex.org/W1644749979,From molecular to modular cell biology,Leland H. Hartwell,#7a0bc0,0.0,3655
+https://openalex.org/W1988636074,Optimization of parameters for semiempirical methods V: Modification of NDDO approximations and application to 70 elements,James J. P. Stewart,#f8dc20,0.0,3636
+https://openalex.org/W2971763914,Present and Future of Surface-Enhanced Raman Scattering,Judith Langer,#f53e45,0.0,3627
+https://openalex.org/W1500256440,Modern Quantum Mechanics,J. J. Sakurai,#ef5704,0.0,3619
+https://openalex.org/W2146411229,PLUMED 2: New feathers for an old bird,Gareth A. Tribello,#88825f,0.0,3614
+https://openalex.org/W2141832944,"Quantised singularities in the electromagnetic field,",P. A. M. Dirac,#349f80,0.0,3598
+https://openalex.org/W3021518424,Electron transfer reactions in chemistry. Theory and experiment,R. A. Marcus,#6b8302,10.0,3590
+https://openalex.org/W2766840380,Multi-messenger Observations of a Binary Neutron Star Merger<sup>*</sup>,B. P. Abbott,#0cbe28,0.0,3589
+https://openalex.org/W1531935167,Observation of parity–time symmetry in optics,Christian E. Rüter,#85734d,0.0,3526
+https://openalex.org/W2127865535,The quantum theory of the electron,P. A. M. Dirac,#349f80,0.0,3501
+https://openalex.org/W4211161891,Topological photonics,Tomoki Ozawa,#0961a2,0.0,3468
+https://openalex.org/W4235425095,Nuclear Induction,F. Bloch,#06f392,0.0,3465
+https://openalex.org/W2049161806,On the Construction and Comparison of Difference Schemes,Gilbert Strang,#8583c1,0.0,3437
+https://openalex.org/W2168448159,The Kuramoto model: A simple paradigm for synchronization phenomena,Juan A. Acebrón,#bd8dd0,0.0,3417
+https://openalex.org/W2992726982,Principles of Condensed Matter Physics,P. M. Chaikin,#960ea7,0.0,3369
+https://openalex.org/W2050333027,Extending the treatment of backbone energetics in protein force fields: Limitations of gas‐phase quantum mechanics in reproducing protein conformational distributions in molecular dynamics simulations,Alexander D. MacKerell,#0306ab,0.0,3367
+https://openalex.org/W2119767565,Plasmon-induced hot carrier science and technology,Mark L. Brongersma,#edf3ef,0.0,3364
+https://openalex.org/W2055993996,"""Relative State"" Formulation of Quantum Mechanics",Hugh Everett,#238633,0.0,3287
+https://openalex.org/W2154815292,The density-matrix renormalization group,Ulrich Schollwöck,#d7b06d,0.0,3282
+https://openalex.org/W1590661973,Entanglement of the orbital angular momentum states of photons,Alois Mair,#2d794e,10.0,3234
+https://openalex.org/W2970174909,Quantum electrodynamics,Matthew D. Schwartz,#1ec41c,0.0,3206
+https://openalex.org/W1670905992,Magnetism and Magnetic Materials,J. M. D. Coey,#d50080,0.0,3200
+https://openalex.org/W656433898,Quantum Transport: Atom to Transistor,Supriyo Datta,#cfb1da,0.0,3192
+https://openalex.org/W2494235437,Bound states in the continuum,Chia Wei Hsu,#e2a85b,0.0,3187
+https://openalex.org/W1492999010,Quantum Algorithm for Linear Systems of Equations,Aram W. Harrow,#112de3,0.0,3183
+https://openalex.org/W2796277309,"Review on nanoparticles and nanostructured materials: history, sources, toxicity and regulations",Jaison Jeevanandam,#356dcc,0.0,3173
+https://openalex.org/W2091262560,Extended Theories of Gravity,Salvatore Capozziello,#2fd3b9,0.0,3171
+https://openalex.org/W2563520564,Relativistic Quantum Mechanics,N. Kemmer,#80f6f6,0.0,3148
+https://openalex.org/W2034251480,Chaos and quantum thermalization,Mark Srednicki,#1b028c,0.0,3103
+https://openalex.org/W2151220474,Basis Set Exchange:  A Community Database for Computational Sciences,Karen Schuchardt,#755218,0.0,3103
+https://openalex.org/W2086778233,Nanoscale thermal transport,David G. Cahill,#9506fa,0.0,3099
+https://openalex.org/W2045140905,New High-Intensity Source of Polarization-Entangled Photon Pairs,Paul G. Kwiat,#5e57aa,10.0,3063
+https://openalex.org/W2083415705,"Gaussian Approximation Potentials: The Accuracy of Quantum Mechanics, without the Electrons",Albert P. Bartók,#699574,10.0,3049
+https://openalex.org/W2056571964,On Unitary Representations of the Inhomogeneous Lorentz Group,E. P. Wigner,#6b5f12,0.0,3031
+https://openalex.org/W2045683699,ACPYPE - AnteChamber PYthon Parser interfacE,Alan Sousa da Silva,#b43346,0.0,3023
+https://openalex.org/W2120830691,"Cosmological event horizons, thermodynamics, and particle creation",G. W. Gibbons,#69d8fd,0.0,3015
+https://openalex.org/W1980458704,Cosmological constant—the weight of the vacuum,T Padmanabhan,#f91c99,0.0,3009
+https://openalex.org/W1986168108,Thermalization and its mechanism for generic isolated quantum systems,Marcos Rigol,#ee349d,10.0,2998
+https://openalex.org/W2170649178,Quantum mechanics as a statistical theory,J. E. Moyal,#046eda,0.0,2992
+https://openalex.org/W2076259017,Operator Algebras and Quantum Statistical Mechanics,Ola Bratteli,#6e8aed,0.0,2968
+https://openalex.org/W1823409394,Quantum computing in molecular magnets,Michael N. Leuenberger,#095074,0.0,2948
+https://openalex.org/W2039263963,Quantum Field Theory and Critical Phenomena,Jean Zinn‐Justin,#78f076,0.0,2947
+https://openalex.org/W2947596026,Quantum mechanics,L. I. Schiff,#bbb7c9,0.0,2947
+https://openalex.org/W1999664967,Quantum-Enhanced Measurements: Beating the Standard Quantum Limit,Vittorio Giovannetti,#a41ccd,0.0,2944
+https://openalex.org/W2107221565,Introductory functional analysis with applications,Erwin Kreyszig,#2157ef,0.0,2929
+https://openalex.org/W297542063,Quantum mechanics (non relativistic theory),D. ter Haar,#659721,0.0,2912
+https://openalex.org/W2315127070,Mathematical foundations of quantum mechanics,Elmer L. Offenbacher,#794c84,0.0,2910
+https://openalex.org/W1997323544,Making sense of non-Hermitian Hamiltonians,Carl M Bender,#7f8003,0.0,2873
+https://openalex.org/W3147260715,Dynamic patterns: The self-organization of brain and behavior,Unknown,#88183b,0.0,2857
+https://openalex.org/W1662133657,From Frequency to Meaning: Vector Space Models of Semantics,Peter D. Turney,#c4df76,10.0,2856
+https://openalex.org/W2304845716,Active Particles in Complex and Crowded Environments,Clemens Bechinger,#719547,0.0,2839
+https://openalex.org/W2594183968,MoleculeNet: a benchmark for molecular machine learning,Zhenqin Wu,#5724ed,0.0,2822
+https://openalex.org/W1988177701,The Dipolar Broadening of Magnetic Resonance Lines in Crystals,J. H. Van Vleck,#a7e231,0.0,2822
+https://openalex.org/W2017592525,<i>Relativistic Quantum Mechanics</i>,James D. Bjorken,#9ff439,0.0,2821
+https://openalex.org/W2110023503,The theory of a general quantum system interacting with a linear dissipative system,Richard P. Feynman,#76ffdb,0.0,2819
+https://openalex.org/W3126996113,The Logic of Quantum Mechanics,Garrett Birkhoff,#3612e1,0.0,2816
+https://openalex.org/W1586369843,Lectures on Quantum Mechanics,Jean-Louis Basdevant,#3664f7,0.0,2805
+https://openalex.org/W3037443854,Quantum simulation,Iulia Georgescu,#0bcac3,0.0,2801
+https://openalex.org/W2086612234,Quantum statistical mechanics in a closed system,J. M. Deutsch,#c552a0,0.0,2800
+https://openalex.org/W2053668131,A review on plants extract mediated synthesis of silver nanoparticles for antimicrobial applications: A green expertise,Shakeel Ahmed,#bce8a8,0.0,2771
+https://openalex.org/W2065192689,On the Problem of Hidden Variables in Quantum Mechanics,John S. Bell,#49d7a0,10.0,2770
+https://openalex.org/W3111162498,Variational quantum algorithms,M. Cerezo,#14fac5,0.0,2740
+https://openalex.org/W1990516747,Entanglement in Quantum Critical Phenomena,Guifré Vidal,#5de1bf,10.0,2738
+https://openalex.org/W2082739523,Unified dynamics for microscopic and macroscopic systems,G. C. Ghirardi,#9458be,0.0,2726
+https://openalex.org/W162533270,Chaos: Making a New Science,James Gleick,#c344a3,0.0,2725
+https://openalex.org/W2949223833,OpenMM 7: Rapid development of high performance algorithms for molecular dynamics,Peter Eastman,#03dba5,10.0,2683
+https://openalex.org/W1995318398,Path integral approach to quantum Brownian motion,A. O. Caldeira,#c4dd40,0.0,2683
+https://openalex.org/W1664235680,The Lattice Boltzmann Equation: For Fluid Dynamics and Beyond,Julia M. Yeomans,#9b5914,0.0,2676
+https://openalex.org/W2110872379,QM/MM Methods for Biomolecular Systems,Hans Martin Senn,#41465e,0.0,2662
+https://openalex.org/W2022708042,The Theory of Groups and Quantum Mechanics,Hermann Weyl,#bb5f74,0.0,2650
+https://openalex.org/W1847162973,The Quantum Theory of Fields,Steven Weinberg,#1d9dd9,0.0,2647
+https://openalex.org/W2102245148,Supersymmetry and quantum mechanics,Fred Cooper,#711721,0.0,2616
+https://openalex.org/W2037522026,Manipulating quantum entanglement with atoms and photons in a cavity,J. M. Raimond,#e890d7,10.0,2611
+https://openalex.org/W1979680610,ReaxFF Reactive Force Field for Molecular Dynamics Simulations of Hydrocarbon Oxidation,Kimberly Chenoweth,#de7338,0.0,2587
+https://openalex.org/W2972593701,Advances and challenges in understanding the electrocatalytic conversion of carbon dioxide to fuels,Yuvraj Y. Birdja,#4ad6d9,10.0,2581
+https://openalex.org/W2163440371,Decoherence and the Transition from Quantum to Classical,Wojciech H. Zurek,#45afa0,0.0,2562
+https://openalex.org/W3143400115,Probabilistic and Statistical Aspects of Quantum Theory,A. S. Holevo,#b6f536,10.0,2544
+https://openalex.org/W3003414507,Quantum Theory: Concepts and Methods,Asher Peres,#8ba8c6,0.0,2529
+https://openalex.org/W2028054907,Challenges for Density Functional Theory,Aron J. Cohen,#7ebe5f,0.0,2490
+https://openalex.org/W2592084954,Citation-based clustering of publications using CitNetExplorer and VOSviewer,Nees Jan van Eck,#9027db,0.0,2475
+https://openalex.org/W2117709364,"<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>M</mml:mi></mml:math>theory as a matrix model: A conjecture",T. Banks,#871cb7,0.0,2474
+https://openalex.org/W2027815611,A combined quantum mechanical and molecular mechanical potential for molecular dynamics simulations,Martin J. Field,#47782e,0.0,2458
+https://openalex.org/W2125048434,The Cosmological Constant,Sean M. Carroll,#17fc44,0.0,2438
+https://openalex.org/W2025148421,2 + 1 dimensional gravity as an exactly soluble system,Edward Witten,#242094,0.0,2414
+https://openalex.org/W2731784911,Improvements to the <scp>APBS</scp> biomolecular solvation software suite,Elizabeth Jurrus,#b50607,0.0,2403
+https://openalex.org/W4403733501,Inorganic Chemistry: Principles of Structure and Reactivity,Haneen Mohammed Abbas Kasar,#b81fee,0.0,2395
+https://openalex.org/W2046229956,Gabedit—A graphical user interface for computational chemistry softwares,A. Allouche,#c181de,0.0,2388
+https://openalex.org/W2017156903,Bell’s theorem without inequalities,Daniel M. Greenberger,#1fb574,10.0,2376
+https://openalex.org/W2027876233,The role of surface charge in cellular uptake and cytotoxicity of medical nanoparticles,Eleonore Fröhlich,#4416ed,0.0,2374
+https://openalex.org/W1653739410,Molecular Docking and Structure-Based Drug Design Strategies,Leonardo L. G. Ferreira,#1ad0f5,0.0,2353
+https://openalex.org/W2226963368,Symmetries of Baryons and Mesons,Murray Gell‐Mann,#9fed34,0.0,2332
+https://openalex.org/W2137084802,Many-Body Localization and Thermalization in Quantum Statistical Mechanics,Rahul Nandkishore,#d689d4,10.0,2321
+https://openalex.org/W2128828294,Lorentz-violating extension of the standard model,Don Colladay,#e55aaa,0.0,2318
+https://openalex.org/W2565988279,Quantum Mechanics (Non-Relativistic Theory),Lewis Elton,#7216be,0.0,2314
+https://openalex.org/W2014172170,DIFFERENTIAL-DIFFERENCE EQUATIONS,Kenneth L. Cooke,#cfa4ab,0.0,2302
+https://openalex.org/W2968923792,Recent advances and applications of machine learning in solid-state materials science,Jonathan Schmidt,#fc7d26,0.0,2294
+https://openalex.org/W1501955150,Topological insulators and superconductors: tenfold way and dimensional hierarchy,Shinsei Ryu,#741517,0.0,2289
+https://openalex.org/W2158605123,The Physical Implementation of Quantum Computation,David P. DiVincenzo,#ed0dea,0.0,2269
+https://openalex.org/W1997054581,Hamiltonian Systems and Transformation in Hilbert Space,B. O. Koopman,#97ab52,0.0,2268
+https://openalex.org/W2118301480,A bound on chaos,Juan Maldacena,#cba894,0.0,2261
+https://openalex.org/W1919133474,From quantum chaos and eigenstate thermalization to statistical mechanics and thermodynamics,Luca D'Alessio,#262a3e,0.0,2239
+https://openalex.org/W2246296081,Renormalization Group and Critical Phenomena. I. Renormalization Group and the Kadanoff Scaling Picture,Kenneth G. Wilson,#dfe323,10.0,2234
+https://openalex.org/W1643690114,Quantum Statistical Properties of Radiation,William H. Louisell,#dbacee,0.0,2230
+https://openalex.org/W2036595722,Introduction to Quantum Mechanics,Unknown,#88183b,0.0,2221
+https://openalex.org/W2138624212,The rendering equation,James T. Kajiya,#a6ebc5,0.0,2213
+https://openalex.org/W2333787883,"The ReaxFF reactive force-field: development, applications and future directions",Thomas P. Senftle,#b04702,0.0,2207
+https://openalex.org/W2039004790,Experimental Tests of Realistic Local Theories via Bell's Theorem,Alain Aspect,#ff6769,30.0,2206
+https://openalex.org/W2989052455,ff19SB: Amino-Acid-Specific Protein Backbone Parameters Trained against Quantum Mechanics Energy Surfaces in Solution,Chuan Tian,#c3bc60,0.0,2193
+https://openalex.org/W2798647535,Quantum mechanics,Eugen Merzbacher,#3dff10,0.0,2187
+https://openalex.org/W3195588649,Efficient evaluation of electrostatic potential with computerized optimized code,Jun Zhang,#459d55,0.0,2186
+https://openalex.org/W2046032184,Advances in atomic force microscopy,Franz J. Gießibl,#38a4fb,0.0,2178
+https://openalex.org/W1993461592,"Relativistic compact effective potentials and efficient, shared-exponent basis sets for the third-, fourth-, and fifth-row atoms",Walter J. Stevens,#d253e7,0.0,2166
+https://openalex.org/W1963596092,Random-matrix theories in quantum physics: common concepts,Thomas Guhr,#332022,10.0,2159
+https://openalex.org/W2153135464,Gravitational Radiation from Post-Newtonian Sources and Inspiralling Compact Binaries,Luc Blanchet,#712c84,0.0,2155
+https://openalex.org/W933184662,Spin–orbit interactions of light,Konstantin Y. Bliokh,#7df977,0.0,2142
+https://openalex.org/W2140720810,Principles for characterizing the potential human health effects from exposure to nanomaterials: elements of a screening strategy,Günter Oberdörster,#03f196,0.0,2117
+https://openalex.org/W2020586725,"Multiphoton Absorbing Materials:  Molecular Designs, Characterizations, and Applications",Guang S. He,#2b5705,0.0,2100
+https://openalex.org/W2742127985,Deep Potential Molecular Dynamics: A Scalable Model with the Accuracy of Quantum Mechanics,Linfeng Zhang,#ed64f1,10.0,2093
+https://openalex.org/W1963988846,Ultracold atomic gases in optical lattices: mimicking condensed matter physics and beyond,Maciej Lewenstein,#30fc57,0.0,2069
+https://openalex.org/W2008262280,Electrogenerated Chemiluminescence and Its Biorelated Applications,Wujian Miao,#53e63e,0.0,2051
+https://openalex.org/W1598829572,"Social Science Research: Principles, Methods and Practices",Anol Bhattacherjee,#23cf75,0.0,2049
+https://openalex.org/W2321955012,Speakable and unspeakable in quantum mechanics,M. A. B. Whitaker,#eb8a5c,0.0,2047
+https://openalex.org/W2236352299,Two-photon coherent states of the radiation field,Horace P. Yuen,#d6d9ab,0.0,2045
+https://openalex.org/W4288039037,Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next,Salvatore Cuomo,#48ccd4,0.0,2038
+https://openalex.org/W2487893106,Proceedings of the International Congress of Mathematicians,Srishti D. Chatterji,#54227d,0.0,2024
+https://openalex.org/W2032084435,Optimization of parameters for semiempirical methods VI: more modifications to the NDDO approximations and re-optimization of parameters,James J. P. Stewart,#f8dc20,0.0,2011
+https://openalex.org/W3148264693,Advanced Quantum Mechanics,Jun John Sakurai,#b51ae0,0.0,2010
+https://openalex.org/W4233500204,Quantum Gravity,Carlo Rovelli,#d94bff,0.0,2010
+https://openalex.org/W2117083307,On the eigenfunctions of many‐particle systems in quantum mechanics,Tosio Kato,#4e19a7,0.0,2009
+https://openalex.org/W1498924426,Principles of Quantum Mechanics,R. Shankar,#21f22d,0.0,2000
+https://openalex.org/W190006759,Special Functions of Mathematical Physics,Arnold F. Nikiforov,#bef717,0.0,1994
+https://openalex.org/W2055655412,Redox flow batteries: a review,Adam Z. Weber,#9238e9,0.0,1986
+https://openalex.org/W2070351351,<i>Techniques and Applications of Path Integration</i>,L. S. Schulman,#b96604,0.0,1984
+https://openalex.org/W2067204178,‘‘Event-ready-detectors’’ Bell experiment via entanglement swapping,Marek Żukowski,#140972,20.0,1977
+https://openalex.org/W1973787174,Description of States in Quantum Mechanics by Density Matrix and Operator Techniques,U. Fano,#63e3cf,0.0,1968
+https://openalex.org/W2109896109,The LHCb Detector at the LHC,A. A. Alves,#5a1203,0.0,1960
+https://openalex.org/W2794444783,Barren plateaus in quantum neural network training landscapes,Jarrod R. McClean,#98576c,0.0,1958
+https://openalex.org/W2080635178,Quantum chemistry structures and properties of 134 kilo molecules,Raghunathan Ramakrishnan,#47a73b,0.0,1956
+https://openalex.org/W1521042556,Molecular Modelling: Principles and Applications,Andrew R. Leach,#92b6db,0.0,1949
+https://openalex.org/W1997020598,The Mechanism of Nuclear Fission,Niels Bohr,#161564,10.0,1946
+https://openalex.org/W2275286668,Analysis,Elliott H. Lieb,#bcef0a,0.0,1936
+https://openalex.org/W1520510487,Conformal field theory,Unknown,#88183b,0.0,1936
+https://openalex.org/W1993952648,Theoretical predictions of structure and related properties of intermetallics,D. G. Pettifor,#47d07b,10.0,1933
+https://openalex.org/W2052457796,Experimental Test of Local Hidden-Variable Theories,S. J. Freedman,#ebda15,20.0,1931
+https://openalex.org/W4296239410,Quantum Statistical Mechanics,Leo P. Kadanoff,#12c8ae,0.0,1929
+https://openalex.org/W1573082642,Methods of Information Geometry,Шун-ичи Амари,#956f0c,0.0,1924
+https://openalex.org/W2120923477,Quasi-Normal Modes of Stars and Black Holes,Kostas D. Kokkotas,#759a17,0.0,1910
+https://openalex.org/W2049523897,Quantum ground state and single-phonon control of a mechanical resonator,A. D. O’Connell,#0e3327,0.0,1905
+https://openalex.org/W2131346692,Fuel Cell Fundamentals,Ryan O’Hayre,#b035d3,0.0,1900
+https://openalex.org/W1565564534,Spin Dynamics: Basics of Nuclear Magnetic Resonance,Malcolm H. Levitt,#6f79c2,0.0,1899
+https://openalex.org/W3037524103,Axion cosmology,David J. E. Marsh,#968c39,0.0,1893
+https://openalex.org/W2002181702,Ultralong spin coherence time in isotopically engineered diamond,Gopalakrishnan Balasubramanian,#7450cb,0.0,1890
+https://openalex.org/W2088034301,Two-dimensional flexible nanoelectronics,Deji Akinwande,#21764e,0.0,1875
+https://openalex.org/W1128809682,A Comprehensive Survey of Clustering Algorithms,Dongkuan Xu,#9f2afa,10.0,1874
+https://openalex.org/W4242608229,The Feynman Lectures on Physics,J W Leech,#ef3f8a,0.0,1873
+https://openalex.org/W2085671314,Quantum Theory of Solids,C. Kittel,#e89783,0.0,1871
+https://openalex.org/W2119046658,"Introduction to quantum noise, measurement, and amplification",Aashish A. Clerk,#45c98f,0.0,1869
+https://openalex.org/W2741582595,Can Quantum-Mechanical Description of Physical Reality be Considered Complete?,Nicole L. Bohr,#05dbe5,0.0,1867
+https://openalex.org/W2891036947,"Asymmetric Metasurfaces with High-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>Q</mml:mi></mml:math> Resonances Governed by Bound States in the Continuum",Kirill Koshelev,#69ad50,0.0,1858
+https://openalex.org/W2081260116,"Molecular dynamics simulations of a fluid bilayer of dipalmitoylphosphatidylcholine at full hydration, constant pressure, and constant temperature",Oliver Berger,#e33552,0.0,1856
+https://openalex.org/W2344612405,Remarks on the Sachdev-Ye-Kitaev model,Juan Maldacena,#cba894,0.0,1827
+https://openalex.org/W1500531877,Group theory and quantum mechanics,M. Tinkham,#771c7e,0.0,1827
+https://openalex.org/W2002598418,Scaling of entanglement close to a quantum phase transition,Andreas Osterloh,#7ba692,10.0,1819
+https://openalex.org/W2140726841,Complex Extension of Quantum Mechanics,Carl M. Bender,#c7704b,0.0,1798
+https://openalex.org/W2914454605,"<i>Colloquium</i>: Many-body localization, thermalization, and entanglement",Dmitry A. Abanin,#5cad26,20.0,1790
+https://openalex.org/W2163102067,Electron transport through double quantum dots,Wilfred G. van der Wiel,#1e1db1,0.0,1782
+https://openalex.org/W2000815209,Jaguar: A high‐performance quantum chemistry software program with strengths in life and materials sciences,Arteum D. Bochevarov,#ee72c8,10.0,1767
+https://openalex.org/W1996533547,"A simple model for the ionization potential, electron affinity, and aqueous redox potentials of small semiconductor crystallites",Louis E. Brus,#9735e9,0.0,1764
+https://openalex.org/W2103230617,Generalized Cumulant Expansion Method,Ryogo Kubo,#435aa2,0.0,1757
+https://openalex.org/W2016533177,"Anomalous diffusion models and their properties: non-stationarity, non-ergodicity, and ageing at the centenary of single particle tracking",Ralf Metzler,#956403,0.0,1757
+https://openalex.org/W2176009997,Electrical contacts to two-dimensional semiconductors,Adrien Allain,#e040a5,0.0,1756
+https://openalex.org/W2036524141,Quantum mechanics of many-electron systems,P. A. M. Dirac,#349f80,0.0,1754
+https://openalex.org/W2154858141,On the origin of gravity and the laws of Newton,Erik Verlinde,#152a7e,0.0,1753
+https://openalex.org/W2985141412,Quantum Mechanics,Claude Cohen‐Tannoudji,#b9b131,0.0,1752
+https://openalex.org/W2039786475,"Status and perspectives of CO2 conversion into fuels and chemicals by catalytic, photocatalytic and electrocatalytic processes",Evgenii V. Kondratenko,#988be6,0.0,1752
+https://openalex.org/W2519383683,<i>Colloquium</i>: Quantum coherence as a resource,Alexander Streltsov,#632f72,0.0,1747
+https://openalex.org/W2053914795,<i>Colloquium</i>: Aligning molecules with strong laser pulses,Henrik Stapelfeldt,#77f987,0.0,1743
+https://openalex.org/W2079604487,MOLCAS: a program package for computational chemistry,Gunnar Karlström,#0c6f12,0.0,1742
+https://openalex.org/W3003574152,Practical Quantum Mechanics,Siegfried Flügge,#fa0bfb,0.0,1739
+https://openalex.org/W2073125394,Generalized discrete variable approximation in quantum mechanics,J. C. Light,#4532b2,0.0,1731
+https://openalex.org/W2975308768,From Efficient Markets Theory to Behavioral Finance,Robert J. Shiller,#b3e6a4,0.0,1723
+https://openalex.org/W1983436447,A Bond Path:  A Universal Indicator of Bonded Interactions,R. F. W. Bader,#7365f2,0.0,1714
+https://openalex.org/W2156124524,"<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>CPT</mml:mi></mml:math>violation and the standard model",Don Colladay,#e55aaa,0.0,1712
+https://openalex.org/W2012206667,Quantum mechanical computers,Richard P. Feynman,#76ffdb,0.0,1705
+https://openalex.org/W2056474482,An Undulatory Theory of the Mechanics of Atoms and Molecules,Erwin Schrödinger,#6fef6e,0.0,1705
+https://openalex.org/W2117794430,Theory of an Optical Maser,Willis E. Lamb,#302a48,0.0,1698
+https://openalex.org/W2963784900,Machine learning in materials informatics: recent applications and prospects,Rampi Ramprasad,#228141,0.0,1695
+https://openalex.org/W2057883617,Squeezed spin states,Masahiro Kitagawa,#5394d6,0.0,1694
+https://openalex.org/W2223094112,Derivation of the Schrödinger Equation from Newtonian Mechanics,Edward Nelson,#f391f1,0.0,1690
+https://openalex.org/W2951635356,"Big data in healthcare: management, analysis and future prospects",Sabyasachi Dash,#5539ac,0.0,1687
+https://openalex.org/W2170839177,Quantum limits on noise in linear amplifiers,Carlton M. Caves,#33a4e8,0.0,1686
+https://openalex.org/W2145576488,The Fractional Order Fourier Transform and its Application to Quantum Mechanics,Victor Namias,#543feb,0.0,1680
+https://openalex.org/W2057591350,Statistical Physics of Macromolecules,Alexander Y. Grosberg,#433d9e,0.0,1670
+https://openalex.org/W2765802355,Flexible mechanical metamaterials,Katia Bertoldi,#b79f0e,0.0,1667
+https://openalex.org/W1996686235,1. Foundations of quantum mechanics,Guozhen Wu,#041ba3,0.0,1658
+https://openalex.org/W2039871263,The Problem of Hidden Variables in Quantum Mechanics,Simon Kochen,#61a972,10.0,1658
+https://openalex.org/W2093192991,Force-distance curves by atomic force microscopy,Brunero Cappella,#0a1728,0.0,1649
+https://openalex.org/W4387440676,AmberTools,David A. Case,#0f7888,0.0,1649
+https://openalex.org/W1990910798,Quantum Mechanics of Fractional-Spin Particles,Frank Wilczek,#2eb0b8,0.0,1646
+https://openalex.org/W2056080528,Dynamical Ensembles in Nonequilibrium Statistical Mechanics,Giovanni Gallavotti,#a972a8,0.0,1645
+https://openalex.org/W2094113109,Intrinsic ripples in graphene,A. Fasolino,#54b32b,0.0,1642
+https://openalex.org/W2189000696,Light-Driven Heterogeneous Reduction of Carbon Dioxide: Photocatalysts and Photoelectrodes,J. L. White,#70511d,0.0,1637
+https://openalex.org/W1994712115,Violation of Bell's Inequality under Strict Einstein Locality Conditions,Gregor Weihs,#b15060,20.0,1636
+https://openalex.org/W2056162638,Group Theory - And its Application to the Quantum Mechanics of Atomic Spectra,Unknown,#88183b,0.0,1635
+https://openalex.org/W2018070595,<i>Methods of Molecular Quantum Mechanics</i>,R. McWeeny,#6182e8,0.0,1623
+https://openalex.org/W2012633943,<i>Quantum Theory of the Optical and Electronic Properties of Semiconductors</i>,Hartmut Haug,#b6c377,0.0,1622
+https://openalex.org/W2103368228,Measurement-based quantum computation on cluster states,Robert Raussendorf,#b04129,0.0,1618
+https://openalex.org/W1536879103,Fundamentals of Carrier Transport,Mark Lundstrom,#f9481c,0.0,1616
+https://openalex.org/W2005492847,Fiber-Optic Chemical Sensors and Biosensors,Otto S. Wolfbeis,#9148af,0.0,1614
+https://openalex.org/W580957117,"Bell’s Theorem, Quantum Theory and Conceptions of the Universe",M. Kafatos,#1f1aa3,10.0,1613
+https://openalex.org/W1585894047,Solvable Models in Quantum Mechanics,Sergio Albeverio,#265886,0.0,1611
+https://openalex.org/W2983536868,Introductory Quantum Optics,Christopher C. Gerry,#0495f5,0.0,1610
+https://openalex.org/W2606142660,LigParGen web server: an automatic OPLS-AA parameter generator for organic ligands,Leela S. Dodda,#dbd538,0.0,1607
+https://openalex.org/W2464725281,A general-purpose machine learning framework for predicting properties of inorganic materials,Logan Ward,#435084,10.0,1607
+https://openalex.org/W2054144999,Generation of Squeezed States by Parametric Down Conversion,Ling-An Wu,#d8851b,0.0,1606
+https://openalex.org/W2739884744,Pseudo-Hermiticity versus PT symmetry: The necessary condition for the reality of the spectrum of a non-Hermitian Hamiltonian,Alí Mostafazadeh,#c89c6c,0.0,1605
